@@ -1,7 +1,7 @@
 /* This example, or test, is a moron test where the library is being hammered in all the possible ways randomly over time */
 
 #include <libusockets.h>
-const int SSL = 1;
+const int SSL = 0;
 
 #include <stdio.h>
 #include <stdlib.h>
